@@ -4,6 +4,7 @@ public class Palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a String to see is it is Palindrome or Not: ");
+<<<<<<< HEAD
         String str = sc.nextLine();
 
         boolean isPalindrome = true;
@@ -21,3 +22,10 @@ public class Palindrome {
         }
     }
 }
+=======
+        String str = sc.next();
+
+
+    }
+}
+>>>>>>> 0d479e1ace72da08104046881eb38f564278b479
